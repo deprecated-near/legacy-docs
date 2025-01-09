@@ -1,1 +1,1 @@
-# bos-legacy-docs
+# Deprecated Docs
