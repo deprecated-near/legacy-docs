@@ -6,10 +6,11 @@ const changelogs = require("./src/utils/changelogs.json");
 const config = {
   title: "NEAR Documentation Archive",
   tagline: "Deprecated NEAR Protocol Documentation",
-  url: "https://docs.near.org",
+  url: "https://deprecated-near.github.io/",
   baseUrl: "/",
   organizationName: "deprecated-near",
   projectName: "legacy-docs",
+  trailingSlash: false,
   markdown: {
     mermaid: true,
   },
