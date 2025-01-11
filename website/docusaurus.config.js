@@ -7,7 +7,7 @@ const config = {
   title: "NEAR Documentation Archive",
   tagline: "Deprecated NEAR Protocol Documentation",
   url: "https://deprecated-near.github.io/",
-  baseUrl: "/",
+  baseUrl: "/legacy-docs/",
   organizationName: "deprecated-near",
   projectName: "legacy-docs",
   trailingSlash: false,
